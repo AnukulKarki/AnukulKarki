@@ -7,8 +7,9 @@
 ![](https://komarev.com/ghpvc/?username=anukulkarki&style=for-the-badge&label=My+Profile+Visitors&color=db0606)
 
 - I’m currently learning **Web Development**
-- Vist my website <a href = "https://sudipsigdel.com.np" target = "_blank"> **anukulkarki.com.np** </a>
+- Vist my website <a href = "https://anukulkarki.com.np" target = "_blank"> **anukulkarki.com.np** </a> 
 - Drop your queries on  **hey@anukulkarki.com.np**
+- LinkedIn:  <a href = "https://www.linkedin.com/in/anukulkarki/" target = "_blank">  **Anukul Karki** </a>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
